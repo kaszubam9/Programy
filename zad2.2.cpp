@@ -5,10 +5,8 @@ using namespace std;
 class Circle{
 public:
     float r;
-Circle(){
-    r=1.45;
-}
-Circle(float rad){
+
+Circle(float rad=1.45){
 r=rad;
 }
 
