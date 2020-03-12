@@ -1,2 +1,2 @@
 # Programy
-Zadania z MiTP
+Zadania podzielone i rozmieszczone na gałęziach
