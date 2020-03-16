@@ -1,2 +1,2 @@
 # Programy
-Zadania podzielone i rozmieszczone na gałęziach
+Zadania z labów MiTP2
